@@ -1,0 +1,64 @@
+
+[Gem]
+	#How far from a player in horizontal plane ores can be found
+	#Range: 1 ~ 64
+	scanRadius = 63
+	#How far from a player in vertical plane ore veins can be found
+	#Range: 1 ~ 384
+	pingDepth = 300
+	#Minimal size of an ore vein to be found
+	#Range: 1 ~ 128
+	veinMinSize = 60
+	#Minimal size of an ore deposit to get alarm
+	#Range: 1 ~ 1024
+	depositMinSize = 60
+	#How many hits the finder can withstand
+	#Range: 0 ~ 65535
+	durability = 4
+	#List of allowed targets. If set, forbidden targets will be ignored
+	allowedTargets = ["minecraft:diamond_ore", "minecraft:deepslate_diamond_ore", "minecraft:emerald_ore", "minecraft:deepslate_emerald_ore", "minecraft:lapis_ore", "minecraft:deepslate_lapis_ore"]
+	#List of forbidden targets
+	forbiddenTargets = []
+
+[Metal]
+	#How far from a player in horizontal plane ores can be found
+	#Range: 1 ~ 64
+	scanRadius = 63
+	#How far from a player in vertical plane ore veins can be found
+	#Range: 1 ~ 384
+	pingDepth = 300
+	#Minimal size of an ore vein to be found
+	#Range: 1 ~ 128
+	veinMinSize = 60
+	#Minimal size of an ore deposit to get alarm
+	#Range: 1 ~ 1024
+	depositMinSize = 60
+	#How many hits the finder can withstand
+	#Range: 0 ~ 65535
+	durability = 4
+	#List of allowed targets. If set, forbidden targets will be ignored
+	allowedTargets = ["minecraft:iron_ore", "minecraft:deepslate_iron_ore", "minecraft:gold_ore", "minecraft:deepslate_gold_ore", "minecraft:copper_ore", "minecraft:deepslate_copper_ore"]
+	#List of forbidden targets
+	forbiddenTargets = []
+
+[Mineral]
+	#How far from a player in horizontal plane ores can be found
+	#Range: 1 ~ 64
+	scanRadius = 63
+	#How far from a player in vertical plane ore veins can be found
+	#Range: 1 ~ 384
+	pingDepth = 300
+	#Minimal size of an ore vein to be found
+	#Range: 1 ~ 128
+	veinMinSize = 60
+	#Minimal size of an ore deposit to get alarm
+	#Range: 1 ~ 1024
+	depositMinSize = 60
+	#How many hits the finder can withstand
+	#Range: 0 ~ 65535
+	durability = 4
+	#List of allowed targets. If set, forbidden targets will be ignored
+	allowedTargets = ["minecraft:coal_ore", "minecraft:deepslate_coal_ore", "minecraft:redstone_ore", "minecraft:deepslate_redstone_ore"]
+	#List of forbidden targets
+	forbiddenTargets = []
+

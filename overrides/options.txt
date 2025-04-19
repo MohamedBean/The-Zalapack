@@ -135,12 +135,6 @@ key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
 key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_Highlight drone locations:key.keyboard.k
 key_key.carry.desc:key.keyboard.left.shift
-key_key.refinedstorage.focusSearchBar:key.keyboard.tab
-key_key.refinedstorage.clearGridCraftingMatrix:key.keyboard.x:CONTROL
-key_key.refinedstorage.openWirelessGrid:key.keyboard.unknown
-key_key.refinedstorage.openWirelessFluidGrid:key.keyboard.unknown
-key_key.refinedstorage.openWirelessCraftingMonitor:key.keyboard.unknown
-key_key.refinedstorage.openPortableGrid:key.keyboard.unknown
 key_key.prone:key.keyboard.z
 key_key.prone.toggle:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.g
@@ -156,9 +150,9 @@ key_key.ftbchunks.minimap.zoomIn:key.keyboard.equal
 key_key.ftbchunks.minimap.zoomOut:key.keyboard.minus
 key_key.ftbchunks.add_waypoint:key.keyboard.unknown
 key_key.ftbchunks.waypoint_manager:key.keyboard.unknown
-key_key.inventorysorter.sort:key.mouse.middle
-key_key.inventorysorter.itemout:key.mouse.102
 key_key.inventorysorter.itemin:key.mouse.100
+key_key.inventorysorter.itemout:key.mouse.102
+key_key.inventorysorter.sort:key.mouse.middle
 key_key.createbigcannons.pitch_mode:key.keyboard.unknown
 key_key.createbigcannons.fire_controlled_cannon:key.mouse.left
 key_key.tacz.inspect.desc:key.keyboard.h
@@ -176,9 +170,9 @@ key_key.journeymap.zoom_in:key.keyboard.equal
 key_key.journeymap.zoom_out:key.keyboard.minus
 key_key.journeymap.minimap_type:key.keyboard.left.bracket
 key_key.journeymap.minimap_preset:key.keyboard.backslash
-key_key.journeymap.create_waypoint:key.keyboard.b
+key_key.journeymap.create_waypoint:key.keyboard.unknown
 key_key.journeymap.toggle_waypoints:key.keyboard.z
-key_key.journeymap.fullscreen_create_waypoint:key.keyboard.b
+key_key.journeymap.fullscreen_create_waypoint:key.keyboard.unknown
 key_key.journeymap.fullscreen_chat_position:key.keyboard.unknown
 key_key.journeymap.map_toggle_alt:key.keyboard.j
 key_key.journeymap.fullscreen_waypoints:key.keyboard.n
@@ -200,6 +194,16 @@ key_key.electrodynamics.togglenvgs:key.keyboard.n
 key_key.electrodynamics.servoleggingsmode:key.keyboard.l
 key_key.electrodynamics.toggleservoleggings:key.keyboard.k
 key_key.electrodynamics.swapbatter:key.keyboard.r
+key_key.tconstruct.helmet_interact:key.keyboard.z
+key_key.tconstruct.leggings_interact:key.keyboard.i
+key_key.toggleVisible:key.keyboard.unknown
+key_key.toggleLiquids:key.keyboard.unknown
+key_key.refinedstorage.focusSearchBar:key.keyboard.tab
+key_key.refinedstorage.clearGridCraftingMatrix:key.keyboard.x:CONTROL
+key_key.refinedstorage.openWirelessGrid:key.keyboard.unknown
+key_key.refinedstorage.openWirelessFluidGrid:key.keyboard.unknown
+key_key.refinedstorage.openWirelessCraftingMonitor:key.keyboard.unknown
+key_key.refinedstorage.openPortableGrid:key.keyboard.unknown
 key_key.ars_nouveau.open_book:key.keyboard.c
 key_key.ars_nouveau.selection_hud:key.keyboard.v
 key_key.ars_nouveau.next_slot:key.keyboard.x
@@ -216,8 +220,6 @@ key_key.ars_nouveau.qc8:key.keyboard.unknown
 key_key.ars_nouveau.qc9:key.keyboard.unknown
 key_key.ars_nouveau.qc10:key.keyboard.unknown
 key_key.ars_nouveau.familiar_toggle:key.keyboard.unknown
-key_key.toggleVisible:key.keyboard.unknown
-key_key.toggleLiquids:key.keyboard.unknown
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_psimisc.keybind:key.keyboard.unknown
